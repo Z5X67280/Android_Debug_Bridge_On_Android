@@ -1,0 +1,7 @@
+id=adb
+name=Android Debug Bridge On Android
+version=1.0.36
+versionCode=1
+author=FLASHing vs Crixec
+description=在你的Android设备上使用Android Debug Bridge（包括Fastboot）
+minMagisk=17000
